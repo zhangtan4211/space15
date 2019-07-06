@@ -115,6 +115,17 @@ public class MainActivity extends AppCompatActivity {
 
 
     //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
+    //释放资源
     @Override
     protected void onDestroy() {
         super.onDestroy();
